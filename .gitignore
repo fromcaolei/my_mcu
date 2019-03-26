@@ -6,4 +6,7 @@
 *.dep
 *.lnp
 *.axf
+proteus project/**/*.pdsbak
+proteus project/**/*.asm
+proteus project/**/*.workspace
 #*.hex
